@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hey que pasa"
+  bio    : "Profile Description"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
