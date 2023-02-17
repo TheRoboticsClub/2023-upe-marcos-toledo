@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Profile.jpg"
   bio    : "Profile Description"
   links:
     - label: "Website"
