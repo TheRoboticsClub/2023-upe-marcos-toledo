@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Marcos Toledo Sánchez"
   avatar : "/assets/images/Profile.jpg"
-  bio    : "Profile Description"
+  bio    : ":|"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
